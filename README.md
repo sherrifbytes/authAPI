@@ -20,9 +20,3 @@
 - [Nodemailer](https://nodemailer.com/about/) - Sending emails
 - [Pino](https://github.com/pinojs/pino) - Logging
 - [config](https://github.com/lorenwest/node-config) - Managing configuration
-
-
-## What will you need to follow along?
-- [Postman](https://www.postman.com/downloads/)
-- [Node.js](https://nodejs.org/en/)
-- [MongoDB](https://www.mongodb.com/try/download/community)
