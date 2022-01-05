@@ -1,0 +1,9 @@
+{
+  "name": "jwtAPI-Starter",
+  "version": "1.0.0",
+  "description": "auth REST API using TypeScript, Typegoose and Zod",
+  "main": "app.ts",
+  "repository": "https://github.com/sherrifbytes/authAPI.git",
+  "author": "sherrifbytes <chidyess@gmail.com>",
+  "license": "MIT"
+}
