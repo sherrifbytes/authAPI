@@ -4,5 +4,6 @@ export class User {
     @prop({ lowercase: true, required: true, unique: true })
     email: string;
 
-    @prop()
+    @prop({ required: true })
+    firstName: string;
 }
