@@ -10,9 +10,9 @@ const app = express();
 app.use(router);
 
 const port = config.get('port');
-const dbUri = config.get('dbUri');
+// const dbUri = config.get('dbUri');
 
 app.listen(port, () => {
-    log.info('server running at http://localhost:${port}');
+    log.info(`Server running: http://localhost:${port}`);
     connectToDb();
 });
